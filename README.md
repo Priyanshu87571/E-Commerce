@@ -1,0 +1,1 @@
+A full-featured e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project showcases a modern online shopping experience with user authentication, product browsing, cart management, and order processing.
