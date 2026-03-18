@@ -88,11 +88,15 @@ JWT Authentication
 📁 Project Structure
 ecommerce-mern/
 
-├── client/          # React Frontend
+├── client/
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
-├── server/               # Node + Express Backend
+
+├── server/              
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
