@@ -123,17 +123,21 @@ ecommerce-mern/
 1️⃣ Clone the Repository
 
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+
 
 2️⃣ Install Backend Dependencies
+
 cd server
+
 npm install
 
 
 Create .env file:
 
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
+
 PORT=5000
 
 
