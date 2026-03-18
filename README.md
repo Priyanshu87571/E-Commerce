@@ -86,6 +86,7 @@ MongoDB + Mongoose
 JWT Authentication
 
 📁 Project Structure
+
 ecommerce-mern/
 
 ├── client/
