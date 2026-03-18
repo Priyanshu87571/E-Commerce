@@ -97,16 +97,26 @@ ecommerce-mern/
 
 │   └── package.json
 
-├── server/              
+├── server/
+
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── middleware/
+
 │   ├── config/
+
 │   ├── server.js
+
 │   └── package.json
+
 ├── README.md
+
 └── .gitignore
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
