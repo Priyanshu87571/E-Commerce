@@ -63,7 +63,7 @@ Error handling middleware
 
 Secure API endpoints
 
-🛠️ Tech Stack
+### Tech Stack
 Frontend
 
 React.js
