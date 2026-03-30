@@ -43,7 +43,7 @@ Admin order dashboard
 
 Order status updates
 
-🎨 Frontend UI
+### Frontend UI
 
 React-based responsive UI
 
