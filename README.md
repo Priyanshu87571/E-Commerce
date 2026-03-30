@@ -119,7 +119,7 @@ ecommerce-mern/
 └── .gitignore
 
 
-⚙️ Installation & Setup
+### Installation & Setup
 
 1️⃣ Clone the Repository
 
