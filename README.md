@@ -5,7 +5,7 @@ This project demonstrates a modern online shopping experience with user authenti
 
 ## Features
 
- Authentication & Authorization
+### Authentication & Authorization
 
 User registration & login
 
