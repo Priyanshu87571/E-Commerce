@@ -35,7 +35,7 @@ Checkout page
 
 Order creation & purchase flow
 
-📦 Order Management
+### Order Management
 
 User order history
 
