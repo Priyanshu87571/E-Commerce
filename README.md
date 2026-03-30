@@ -5,7 +5,7 @@ This project demonstrates a modern online shopping experience with user authenti
 
 ## Features
 
-#### Authentication & Authorization
+### Authentication & Authorization
 
 User registration & login
 
@@ -15,7 +15,7 @@ JWT-based authentication
 
 Role-based access (Admin / User)
 
-🛍️ Product Management
+ Product Management
 
 Browse products by category
 
