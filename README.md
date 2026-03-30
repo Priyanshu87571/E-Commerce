@@ -15,7 +15,7 @@ JWT-based authentication
 
 Role-based access (Admin / User)
 
- Product Management
+### Product Management
 
 Browse products by category
 
@@ -25,7 +25,7 @@ Product details page
 
 Admin can add, edit, delete products
 
-🛒 Cart & Checkout
+### Cart & Checkout
 
 Add/remove products from cart
 
