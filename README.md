@@ -53,7 +53,7 @@ Toast notifications
 
 Modern styling (Tailwind / CSS / Bootstrap)
 
-⚙️ Backend API
+### Backend API
 
 RESTful API with Express.js
 
