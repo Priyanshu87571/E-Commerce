@@ -47,7 +47,7 @@ Order status updates
 
 React-based responsive UI
 
-Context API / Redux (based on your project)
+Context API / Redux 
 
 Toast notifications
 
