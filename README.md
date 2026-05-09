@@ -9,7 +9,7 @@ This project demonstrates a modern online shopping experience with user authenti
 
 User registration & login
 
-Secure password hashing (bcrypt)
+Secure password hashing
 
 JWT-based authentication
 
