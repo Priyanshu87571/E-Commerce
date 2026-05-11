@@ -74,7 +74,7 @@ Context API / Redux
 
 Axios
 
-Tailwind CSS / Bootstrap (choose what you used)
+Tailwind CSS / Bootstrap 
 
 ### Backend
 
